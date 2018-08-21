@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  ToDoApp
+
+  Created by GlobalLogic on 16/02/18.
+  Copyright © 2018 GlobalLogic. All rights reserved.
+*/
+
+/* Title for Alert */
+"alert" = "Alert";
+/* Message for alert */
+"title_field_empty" = "The title field is empty";
+/* Message for alert */
+"date_not_proper" = "The date and time entered can not be less than or equal to the current time!";
+/* Message for alert */
+"to_do_changed" = "The To Do Item is updated!";
+/* Message for alert */
+"reminder_created" = "Reminder created!";
+/* Message for alert */
+"notification_denied" = "Please allow notifications for the application!";
+/* Title for Notification */
+"toDo" = "ToDo";
+/* Action button title for alert */
+"Cancel" = "Cancel";
+/* Message for alert */
+"You have %d ToDos" = "You have %d ToDos";

@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "7Xb-D7-NmL"; */
+"7Xb-D7-NmL.placeholder" = "Title";
+
+/* Class = "UINavigationItem"; title = "To Do List"; ObjectID = "CsN-Ik-vJV"; */
+"CsN-Ik-vJV.title" = "To Do List";
+
+/* Class = "UILabel"; text = "Title Label "; ObjectID = "OKu-D2-T3S"; */
+"OKu-D2-T3S.text" = "Title Label ";
+
+/* Class = "UITextField"; placeholder = "Select date and time"; ObjectID = "Q2l-ce-4mY"; */
+"Q2l-ce-4mY.placeholder" = "Select date and time";
+
+/* Class = "UINavigationItem"; title = "To Do"; ObjectID = "acM-tY-X2X"; */
+"acM-tY-X2X.title" = "To Do";
+
+/* Class = "UILabel"; text = "Reminder at: "; ObjectID = "de2-UC-mOS"; */
+"de2-UC-mOS.text" = "Reminder at: ";
+
+/* Class = "UILabel"; text = "toDoAt Label"; ObjectID = "n9K-6d-zyO"; */
+"n9K-6d-zyO.text" = "toDoAt Label";

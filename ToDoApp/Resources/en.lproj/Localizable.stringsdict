@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>You have %d ToDos</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@toDo@</string>
+		<key>toDo</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>You have no toDos. Tap + to add new To Do.</string>
+			<key>one</key>
+			<string>You have one toDo.</string>
+			<key>two</key>
+			<string>You have two toDos.</string>
+			<key>other</key>
+			<string>You have %d toDos.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

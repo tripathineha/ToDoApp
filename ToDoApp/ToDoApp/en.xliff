@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="ToDoApp/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body/>
+  </file>
+  <file original="ToDoApp/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="7Xb-D7-NmL.placeholder">
+        <source>Title</source>
+        <note>Class = "UITextField"; placeholder = "Title"; ObjectID = "7Xb-D7-NmL";</note>
+      </trans-unit>
+      <trans-unit id="CsN-Ik-vJV.title">
+        <source>To Do List</source>
+        <note>Class = "UINavigationItem"; title = "To Do List"; ObjectID = "CsN-Ik-vJV";</note>
+      </trans-unit>
+      <trans-unit id="OKu-D2-T3S.text">
+        <source>Title Label </source>
+        <note>Class = "UILabel"; text = "Title Label "; ObjectID = "OKu-D2-T3S";</note>
+      </trans-unit>
+      <trans-unit id="Q2l-ce-4mY.placeholder">
+        <source>Select date and time</source>
+        <note>Class = "UITextField"; placeholder = "Select date and time"; ObjectID = "Q2l-ce-4mY";</note>
+      </trans-unit>
+      <trans-unit id="acM-tY-X2X.title">
+        <source>To Do</source>
+        <note>Class = "UINavigationItem"; title = "To Do"; ObjectID = "acM-tY-X2X";</note>
+      </trans-unit>
+      <trans-unit id="de2-UC-mOS.text">
+        <source>Reminder at: </source>
+        <note>Class = "UILabel"; text = "Reminder at: "; ObjectID = "de2-UC-mOS";</note>
+      </trans-unit>
+      <trans-unit id="n9K-6d-zyO.text">
+        <source>toDoAt Label</source>
+        <note>Class = "UILabel"; text = "toDoAt Label"; ObjectID = "n9K-6d-zyO";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ToDoApp/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ToDoApp/Resources/en.lproj/Localizable.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit id="You have %d ToDos">
+        <source>You have %d ToDos</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="alert">
+        <source>Alert</source>
+      </trans-unit>
+      <trans-unit id="date_not_proper">
+        <source>The date and time entered can not be less than or equal to the current time!</source>
+      </trans-unit>
+      <trans-unit id="notification_denied">
+        <source>Please allow notifications for the application!</source>
+      </trans-unit>
+      <trans-unit id="reminder_created">
+        <source>Reminder created!</source>
+      </trans-unit>
+      <trans-unit id="title_field_empty">
+        <source>The title field is empty</source>
+      </trans-unit>
+      <trans-unit id="toDo">
+        <source>ToDo</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="to_do_changed">
+        <source>The To Do Item is updated!</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ToDoApp/Resources/en.lproj/Localizable.stringsdict" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="/You have %d ToDos:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>%#@toDo@</source>
+      </trans-unit>
+      <trans-unit id="/You have %d ToDos:dict/toDo:dict/few:dict/:string">
+        <source>You have %d toDos.</source>
+      </trans-unit>
+      <trans-unit id="/You have %d ToDos:dict/toDo:dict/many:dict/:string">
+        <source>You have %d toDos.</source>
+      </trans-unit>
+      <trans-unit id="/You have %d ToDos:dict/toDo:dict/one:dict/:string">
+        <source>You have one toDo.</source>
+      </trans-unit>
+      <trans-unit id="/You have %d ToDos:dict/toDo:dict/other:dict/:string">
+        <source>You have %d toDos.</source>
+      </trans-unit>
+      <trans-unit id="/You have %d ToDos:dict/toDo:dict/two:dict/:string">
+        <source>You have %d toDos.</source>
+      </trans-unit>
+      <trans-unit id="/You have %d ToDos:dict/toDo:dict/zero:dict/:string">
+        <source>You have no toDos. Tap + to add new To Do.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
